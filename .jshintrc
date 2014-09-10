@@ -3,7 +3,11 @@
     "document": true,
     "window": true,
     "-Promise": true,
-    "TodoEmberENV": true
+    "TodoEmberENV": true,
+    "moment": true,
+    "_": true,
+    "Pikaday": true,
+    "jQuery": true
   },
   "browser" : true,
   "boss" : true,
