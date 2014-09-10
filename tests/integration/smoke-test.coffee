@@ -15,4 +15,5 @@ module 'Integration - Todo Index',
 
 test 'Should showo todos', ->
   visit("/todos").then ->
+    # debugger
     equal find(".todo").length,2
